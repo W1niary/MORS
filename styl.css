@@ -17,7 +17,7 @@ nav{
     padding-bottom: 5px;
 }
 img{
-    margin:0 auto;
+    margin:auto;
     display:block;   
 }
 
@@ -28,21 +28,22 @@ footer {
     font-size: 20px;
     text-align: right;
 }
-input{
+a{
     height: 40px;
     font-weight: bold;
     background-color: rgb(190, 99, 24);
-    border: none;
     color: white;
     font-size: 16px;
     cursor: pointer;
     margin: 4px 2px;
 }
 
-input:hover{
+a:hover{
     border: 6px solid yellow;
     border-radius: 5px;
 }
+
+
 label{
     font-weight: bold;
 }
